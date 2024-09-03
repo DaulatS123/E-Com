@@ -1,0 +1,46 @@
+li{
+    list-style-type: none;  
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 35px;
+    text-align: left;
+}
+h6{
+
+    /* font-family: Poppins; */
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: left;
+
+}
+h3{
+    /* font-family: Inter; */
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #FAFAFA;
+}
+
+h4{
+    
+    /* font-family: Poppins; */
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 35px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.copyright{
+    
+    /* font-family: Poppins; */
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    text-align: center;
+
+}
